@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from live.themewild.com/eduka/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Jul 2025 10:31:10 GMT -->
+
 <head>
     <!-- meta tags -->
     <meta charset="UTF-8">
@@ -12,7 +12,7 @@
     <meta name="keywords" content="">
 
     <!-- title -->
-    <title>Eduka - School, College, University And Courses HTML5 Template</title>
+    
 
     <!-- favicon -->
     <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
@@ -114,5 +114,5 @@
 </body>
 
 
-<!-- Mirrored from live.themewild.com/eduka/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Jul 2025 10:31:11 GMT -->
+
 </html>
